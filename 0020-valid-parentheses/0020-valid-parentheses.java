@@ -15,9 +15,7 @@ class Solution {
                 if (stack.isEmpty() || map.get(chr) != stack.pop() )
                     return false;
             }
-        }
-        if(stack.isEmpty())
-            return true;
-        return false;
+        } 
+        return stack.isEmpty();
     }
 }
