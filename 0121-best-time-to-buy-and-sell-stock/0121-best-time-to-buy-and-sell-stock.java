@@ -8,8 +8,7 @@ class Solution {
         int max_profit = 0;
         for(int i =1 ; i<prices.length;i++){
             min_so_far = Math.min(min_so_far, prices[i]);
-            int profit = prices[i]-min_so_far;
-            max_profit = Math.max(max_profit,profit);
+            max_profit = Math.max(max_profit,prices[i]-min_so_far);
         }
         return max_profit;
     }
