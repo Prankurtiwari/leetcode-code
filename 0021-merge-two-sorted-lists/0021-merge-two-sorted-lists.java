@@ -22,7 +22,7 @@ class Solution {
                 cur_node.next = list2;
                 list2= list2.next;
             }
-            cur_node = cur_node.next;
+            cur_node = cur_node.next != null ? cur_node.next : cur_node;
         }
         if (list1 != null) {
             cur_node.next = list1;
