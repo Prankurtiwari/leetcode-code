@@ -26,11 +26,11 @@ class Solution {
         }
         if (list1 != null) {
             cur_node.next = list1;
-            list1 = list1.next;
+            // list1 = list1.next;
         }
         if (list2 != null) {
             cur_node.next = list2;
-            list2 = list2.next;
+            // list2 = list2.next;
         }
         return temp_node.next;
     }
