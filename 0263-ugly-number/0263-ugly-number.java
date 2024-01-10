@@ -20,5 +20,6 @@ class Solution {
         }
         return n == 1;
         
+        //similar to power of two question
     }
 }
