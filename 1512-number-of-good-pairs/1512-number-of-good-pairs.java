@@ -14,7 +14,7 @@ class Solution {
         return count;
         */
         
-       // O(n^) solution) 
+       // O(n) solution) 
         Map<Integer, Integer> mp = new HashMap<>();
         int count = 0;
         for(int i = 0; i < nums.length; i++) {
