@@ -13,7 +13,8 @@ class Solution {
                 max = i;
                 sum += i;
             }
-            else if (i == max) {
+             else if (i == max) {    
+                max = i;
                 sum += i;
             }
         }
