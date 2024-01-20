@@ -8,6 +8,6 @@ class Solution {
             mp.put(val, mp.getOrDefault(val, 0) + 1);
         }
         HashSet<Integer> set = new HashSet<>(mp.values());
-        return mp.size() == set.size();
+        return mp.values().size() == set.size();
     }
 }
