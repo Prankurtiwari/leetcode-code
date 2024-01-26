@@ -1,5 +1,8 @@
 class Solution {
     public String reverseOnlyLetters(String s) {
+        
+        // Non Optimise Solution
+        
         int length = s.length();
         if(length == 1) {
             return s;
@@ -17,8 +20,16 @@ class Solution {
                 i++;
             } else if (!Character.isAlphabetic(s.charAt(j))) {
                 j--;
-            } 
+            } else {
+                i++;
+                j--;
+            }  
         }
         return result.toString();
+        
+
+
+        // Optimised Solution
+        
     }
 }
