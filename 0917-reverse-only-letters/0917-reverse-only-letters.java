@@ -17,10 +17,7 @@ class Solution {
                 i++;
             } else if (!Character.isAlphabetic(s.charAt(j))) {
                 j--;
-            } else {
-                i++;
-                j--;
-            }  
+            } 
         }
         return result.toString();
     }
