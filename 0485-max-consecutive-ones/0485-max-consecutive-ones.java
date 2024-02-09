@@ -6,7 +6,7 @@ class Solution {
             if (nums[i] == 0) {
                 curr = 0;
             } else {
-                curr += nums[i];
+                curr++;
             }
             max = Math.max(curr, max);
         }
