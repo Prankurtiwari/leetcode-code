@@ -9,7 +9,6 @@ class Solution {
                 res = Math.min (res, nums[mid]);
                 high = mid -1;
             }else {
-                 res = Math.min (res, nums[mid]);
                 low = mid +1;
             }
         }
