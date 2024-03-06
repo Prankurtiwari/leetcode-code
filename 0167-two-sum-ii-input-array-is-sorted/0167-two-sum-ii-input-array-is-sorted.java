@@ -10,20 +10,11 @@ class Solution {
                 res[1] = end+1;
                 break;
             } else if (nums[start] + nums[end] > target) {
-                if (nums[start] + nums[mid] > target) {
-                    end = mid -1;
-                } else {
-                    end--;
-                }
+                end--;   
             } else {
-                if (nums[start] + nums[mid] < target) {
-                    start = start +1;
-                } else {
-                   start++;
-                } 
+               start++;
             }
         }
-        
         return res;
     }
 }
