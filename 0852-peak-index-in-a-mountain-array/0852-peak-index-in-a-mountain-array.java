@@ -5,10 +5,13 @@ class Solution {
         int ans = -1;
         int start =1;
         int end = arr.length -2;
+        
+        // Not necessary case 
+        
 //         if (arr[0] > arr[1]) {
 //             return 0;
 //         }
-        
+        // Not necessary case 
 //         if (arr[arr.length -1] > arr[arr.length -2]) {
 //             return arr.length -1;
 //         }
