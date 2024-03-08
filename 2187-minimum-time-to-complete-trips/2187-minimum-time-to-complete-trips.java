@@ -5,9 +5,9 @@ class Solution {
         long low = (long) time[0], high = (long) time[n - 1] * totalTrips;
         while (low < high) {
             long mid = low + (high - low) / 2;
-            if (check(time, mid, totalTrips))
+            if (check(time, mid, totalTrips)){
                 high = mid;
-            else
+            }else
                 low = mid + 1;
         }
         return low;
