@@ -22,7 +22,7 @@ If the number of trips completed by the 'mid' time is less than the total trips,
     
     
     public long minimumTime(int[] time, int totalTrips) {
-        long st = 0, ed = (time[0] + 0L) * totalTrips;
+        long st = 1, ed = (time[0] + 0L) * totalTrips;
         long ans = 0;
         while (st <= ed) {
             long mid = (st + ed) / 2;
