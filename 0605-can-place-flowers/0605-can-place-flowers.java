@@ -1,4 +1,6 @@
 class Solution {
+    // https://www.youtube.com/results?search_query=Can+Place+Flowers+-+Leetcode+605
+    
     public boolean canPlaceFlowers(int[] flowerbed, int flo) {
        int n = flowerbed.length;
         int[] arr = new int[n+2];
