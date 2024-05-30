@@ -58,22 +58,22 @@ class Solution {
         }
         TreeNode cur =root;
         while(cur != null || !st.isEmpty()) {
-             if (cur != null) {
-                 st.push(cur);
-                 cur = cur.left;
-             } else {
-                 TreeNode temp = st.peek().right;
-                 if (temp == null) {
-                     temp = st.pop();
-                     res.add(temp.val);
-                     while(!st.isEmpty() && temp == st.peek().right) {
-                         temp = st.pop();
-                         res.add(temp.val);
-                     }
-                 } else {
-                     cur = temp;
-                 }
-             }
+            if(cur != null) {
+                st.push(cur);
+                cur = cur.left;
+            } else {
+                TreeNode temp = st.peek().right;
+                if (temp == null) {
+                    temp = st.pop();
+                    res.add(temp.val);
+                    while(!st.isEmpty() && temp == st.peek().right) {
+                        temp = st.pop();
+                        res.add(temp.val);
+                    }
+                } else {
+                    cur = temp;
+                }
+            }
         }
          
      }
