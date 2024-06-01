@@ -17,15 +17,14 @@ class Solution {
     
     // using level order traversal 
     public int maxDepthLevelOrder(TreeNode root) {
-        List<List<Integer>> res = new ArrayList<>();
+        int count =0;
         Queue<TreeNode> que = new LinkedList<>();
         if (root == null) {
-            return 0;
+            return count;
         }
         que.offer(root);
         while(!que.isEmpty()) {
             int size = que.size();
-            List<Integer> sub_res = new ArrayList<>();
             for(int i=0; i<size; i++) {
                 TreeNode peek = que.peek();
                 if (peek.left != null) {
@@ -34,13 +33,14 @@ class Solution {
                 if (peek.right != null) {
                     que.offer(peek.right);
                 }
-                sub_res.add(que.poll().val);
+                que.poll();
             }
-            res.add(sub_res);
+            count++;
         }
-        return res.size();
+        return count;
     }
     
+    // using level order traversal 
     public int maxDepthRecursion(TreeNode root) {
         if (root == null) {
             return 0;
@@ -54,7 +54,7 @@ class Solution {
     
     
     public int maxDepth(TreeNode root) {
-        // return maxDepthLevelOrder(root);
-        return maxDepthRecursion(root);
+        return maxDepthLevelOrder(root);
+        // return maxDepthRecursion(root);
     }
 }
