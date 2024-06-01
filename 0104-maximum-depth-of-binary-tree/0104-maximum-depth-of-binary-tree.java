@@ -14,7 +14,9 @@
  * }
  */
 class Solution {
-    public int maxDepth(TreeNode root) {
+    
+    // using level order traversal 
+    public int maxDepthLevelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
         Queue<TreeNode> que = new LinkedList<>();
         if (root == null) {
@@ -37,5 +39,22 @@ class Solution {
             res.add(sub_res);
         }
         return res.size();
+    }
+    
+    public int maxDepthRecursion(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        int lh = maxDepthRecursion(root.left);
+        int rh = maxDepthRecursion(root.right);
+        
+        return 1 + Math.max(lh,rh);
+    }
+    
+    
+    
+    public int maxDepth(TreeNode root) {
+        // return maxDepthLevelOrder(root);
+        return maxDepthRecursion(root);
     }
 }
