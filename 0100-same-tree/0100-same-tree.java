@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // logically if the trees are same then any traversal of both the trees will be same
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if (p == null || q ==null) {
             return p==q;
