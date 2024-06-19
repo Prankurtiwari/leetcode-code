@@ -18,12 +18,12 @@ class Solution {
         while(!qu.isEmpty()) {
             TreeNode cur = qu.peek();
             if (cur.left != null) {
-                qu.offer(cur.left);
                 par.put(cur.left,cur);
+                qu.offer(cur.left);
             }
             if (cur.right != null) {
-                qu.offer(cur.right);
                 par.put(cur.right,cur);
+                qu.offer(cur.right);
             }
             qu.poll();
         }
@@ -48,12 +48,12 @@ class Solution {
             for(int i=0;i<size;i++) {
                 TreeNode cur = qu.peek();
                 if (cur.left != null && vis.get(cur.left) == null) {
-                    qu.offer(cur.left);
                     vis.put(cur.left, true);
+                    qu.offer(cur.left);
                 }
                 if (cur.right != null && vis.get(cur.right) == null) {
-                    qu.offer(cur.right);
                     vis.put(cur.right, true);
+                    qu.offer(cur.right);
                 }
                 if (par.get(cur) != null && vis.get(par.get(cur)) == null) {
                     vis.put(par.get(cur), true);
