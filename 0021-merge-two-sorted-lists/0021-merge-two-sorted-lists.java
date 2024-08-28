@@ -36,7 +36,7 @@ class Solution {
         
         
         
-        // Recurssion
+        // Recurssion L42 on 13 Mar-2024
 
             if (list1 == null) return list2;
             if (list2 == null) return list1;
