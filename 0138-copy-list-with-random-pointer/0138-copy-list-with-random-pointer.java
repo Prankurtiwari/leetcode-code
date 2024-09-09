@@ -15,7 +15,7 @@ class Node {
 
 class Solution {
     
-    //DSA course L38 : Linked List: Classical Problems 2 13-March-2024
+    //DSA course L42 : Linked List: Classical Problems 2 13-March-2024
     public Node copyRandomList(Node head) {
        // O(n) -- space O(n) -- time
         
