@@ -9,7 +9,10 @@ class Solution {
 
     public boolean isReachable(int x, int y) {
         int gcd = gcd(x,y);
-
-        return (gcd & (gcd-1)) == 0;
+        int n = gcd;
+        while(n % 2 == 0 && n > 1) {
+            n/= 2;
+        }
+        return n ==1;
     }
 }
