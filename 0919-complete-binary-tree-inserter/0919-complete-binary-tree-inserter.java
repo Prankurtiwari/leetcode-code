@@ -17,27 +17,35 @@ class CBTInserter {
 
     TreeNode root;
     Queue<TreeNode> queue; // for missing node; 
+
     public CBTInserter(TreeNode root) {
-        
+
         this.root = root;
         queue = new LinkedList<>();
-        Queue<TreeNode> bfs =new LinkedList<>();
+        Queue<TreeNode> bfs = new LinkedList<>();
 
         bfs.offer(root);
 
-        while(!bfs.isEmpty()) {
-            TreeNode curr = bfs.poll();
+        while (!bfs.isEmpty()) {
 
-            if (curr.left == null || curr.right == null) {
-                queue.offer(curr);
+            int size = bfs.size();
+            while (size-- > 0) {
+                TreeNode curr = bfs.poll();
+
+                if (curr.left == null || curr.right == null) {
+                    queue.offer(curr);
+                }
+
+                if (curr.left != null)
+                    bfs.offer(curr.left);
+                if (curr.right != null)
+                    bfs.offer(curr.right);
             }
 
-            if (curr.left != null) bfs.offer(curr.left);
-            if (curr.right != null) bfs.offer(curr.right);
         }
 
     }
-    
+
     public int insert(int val) {
         TreeNode node = new TreeNode(val);
         if (!queue.isEmpty()) {
@@ -46,7 +54,7 @@ class CBTInserter {
 
             if (ptr.left == null) {
                 ptr.left = node;
-            }else {
+            } else {
                 ptr.right = node;
                 queue.poll();
             }
@@ -57,7 +65,7 @@ class CBTInserter {
 
         return -1;
     }
-    
+
     public TreeNode get_root() {
         return root;
     }
