@@ -1,5 +1,9 @@
 class Solution {
     public String decodeAtIndex(String s, int k) {
+        if (k ==1) {
+            return Character.toString(s.charAt(k-1));
+        }
+        
         long size = 0;   
         int n = s.length();
 
