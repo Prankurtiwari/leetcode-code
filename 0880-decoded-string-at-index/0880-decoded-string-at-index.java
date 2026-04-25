@@ -1,10 +1,7 @@
 class Solution {
     public String decodeAtIndex(String s, int k) {
-        if (k ==1) {
-            return Character.toString(s.charAt(k-1));
-        }
-        
-        long size = 0;   
+    
+        long size = 0;   // here long is imp;
         int n = s.length();
 
         for (char c : s.toCharArray()) {
