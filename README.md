@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
 ## Design
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
 <!---LeetCode Topics End-->
