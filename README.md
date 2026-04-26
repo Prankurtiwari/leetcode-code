@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Prankurtiwari/leetcode-code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
 | ------- |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Prankurtiwari/leetcode-code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
 |  |
