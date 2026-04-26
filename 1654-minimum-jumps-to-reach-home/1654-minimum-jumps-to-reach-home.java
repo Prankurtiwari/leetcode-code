@@ -22,7 +22,7 @@ class Solution {
 
         Queue<Pair> bfs = new LinkedList<>();
 
-        bfs.add(new Pair(0, true)); // I can go backward but no need 
+        bfs.add(new Pair(0, false)); // I can go backward but no need 
         forwardVisited.add(0);
         backwardVisited.add(0);
 
@@ -39,7 +39,7 @@ class Solution {
                 if (curr.pos == x) {
                     return steps;
                 }
-                
+
                 int next_a = curr.pos + a;
 
                 
