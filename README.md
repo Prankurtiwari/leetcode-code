@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
+| [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Prankurtiwari/leetcode-code/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
@@ -56,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
+| [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
+## Simulation
+|  |
+| ------- |
+| [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
