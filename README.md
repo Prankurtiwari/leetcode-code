@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0979-distribute-coins-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
