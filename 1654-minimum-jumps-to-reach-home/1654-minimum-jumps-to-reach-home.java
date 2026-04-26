@@ -22,11 +22,11 @@ class Solution {
 
         Queue<Pair> bfs = new LinkedList<>();
 
-        bfs.add(new Pair(0, false)); // I can go backward but no need 
+        bfs.add(new Pair(0, false));
         forwardVisited.add(0);
         backwardVisited.add(0);
 
-        int max = 10_000;
+        int max = a +b +x + Collections.max(forbid);
 
 
         while(!bfs.isEmpty()) {
