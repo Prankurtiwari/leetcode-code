@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
 ## Design
 |  |
@@ -16,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
 ## String
 |  |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
