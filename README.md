@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Prankurtiwari/leetcode-code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -71,8 +72,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Sliding Window
 |  |
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bitmask
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
