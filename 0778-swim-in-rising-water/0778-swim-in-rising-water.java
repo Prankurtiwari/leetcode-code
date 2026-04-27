@@ -2,11 +2,11 @@ class Solution {
 
     public boolean canSwin(int[][] grid, boolean[][] visited, int x, int y, int n, int time) {
 
-        visited[x][y] = true;
+       
         if (x == n-1 && y == n-1) {
             return true;
         }
-
+        visited[x][y] = true;
         // move left
         if (x-1 >=0 && !visited[x-1][y] && grid[x-1][y] <= time) {
             if (canSwin(grid, visited, x-1, y, n, time))
