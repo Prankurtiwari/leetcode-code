@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0753-cracking-the-safe](https://github.com/Prankurtiwari/leetcode-code/tree/master/0753-cracking-the-safe) |
 | [0880-decoded-string-at-index](https://github.com/Prankurtiwari/leetcode-code/tree/master/0880-decoded-string-at-index) |
 ## Stack
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0753-cracking-the-safe](https://github.com/Prankurtiwari/leetcode-code/tree/master/0753-cracking-the-safe) |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Hash Table
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
+## Graph Theory
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/Prankurtiwari/leetcode-code/tree/master/0753-cracking-the-safe) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/Prankurtiwari/leetcode-code/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
