@@ -1,33 +1,26 @@
 class Solution {
-
+    StringBuilder res = new StringBuilder();
     Set<String> visited = new HashSet<>();
-    StringBuilder result = new StringBuilder();
-
     public String crackSafe(int n, int k) {
 
-        // starting node: "000...(n-1 times)"
-        String start = "0".repeat(n - 1);
+        String start = "0".repeat(n-1);
 
         dfs(start, k);
 
-        // append start at end
-        return result.append(start).toString();
+        return res.append(start).toString();
+        
     }
 
-    private void dfs(String node, int k) {
+    public void dfs (String start, int k) {
 
-        for (int digit = 0; digit < k; digit++) {
+        for(int i =0; i<k ;i++) {
 
-            String edge = node + digit;
+            String node = start + i;
 
-            if (!visited.contains(edge)) {
-                visited.add(edge);
-
-                // move window forward (drop first char)
-                dfs(edge.substring(1), k);
-
-                // add digit after recursion (post-order)
-                result.append(digit);
+            if (!visited.contains(node)) {
+                visited.add(node);
+                dfs(node.substring(1), k);
+                res.append(i);
             }
         }
     }
