@@ -42,7 +42,7 @@ class Solution {
         int low = 0;
         int high = n*n -1;
 
-        int res = Integer.MAX_VALUE;
+        int res = n*n -1;
 
         while(low <= high) {
 
