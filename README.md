@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Prankurtiwari/leetcode-code/tree/master/2169-count-operations-to-obtain-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/Prankurtiwari/leetcode-code/tree/master/0753-cracking-the-safe) |
+## Math
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Prankurtiwari/leetcode-code/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
