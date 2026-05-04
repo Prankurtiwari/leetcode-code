@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prankurtiwari/leetcode-code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prankurtiwari/leetcode-code/tree/master/0919-complete-binary-tree-inserter) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prankurtiwari/leetcode-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
 ## Design
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prankurtiwari/leetcode-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Prankurtiwari/leetcode-code/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Prankurtiwari/leetcode-code/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
