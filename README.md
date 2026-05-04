@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Sliding Window
