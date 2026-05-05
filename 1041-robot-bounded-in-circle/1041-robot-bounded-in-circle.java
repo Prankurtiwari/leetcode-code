@@ -13,12 +13,12 @@ class Solution {
                 int temp = dx;
                 dx = dy;
                 dy = temp;
-                dy = (-1) * dy;
+                dx = (-1) * dx; // Left means 2nd quadrant 
             } else if (ch == 'R') {
                 int temp = dx;
                 dx = dy;
                 dy = temp;
-                dx = (-1) * dx;
+                dy = (-1) * dy; // opposite of left 
             }
         }
 
