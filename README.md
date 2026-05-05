@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Prankurtiwari/leetcode-code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Depth-First Search
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Prankurtiwari/leetcode-code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Matrix
 |  |
 | ------- |
