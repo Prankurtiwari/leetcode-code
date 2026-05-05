@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Prankurtiwari/leetcode-code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Prankurtiwari/leetcode-code/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Prankurtiwari/leetcode-code/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Prankurtiwari/leetcode-code/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Prankurtiwari/leetcode-code/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Prankurtiwari/leetcode-code/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Prankurtiwari/leetcode-code/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Prankurtiwari/leetcode-code/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
