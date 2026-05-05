@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Prankurtiwari/leetcode-code/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Prankurtiwari/leetcode-code/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -129,8 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Prankurtiwari/leetcode-code/tree/master/2169-count-operations-to-obtain-zero) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Prankurtiwari/leetcode-code/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prankurtiwari/leetcode-code/tree/master/0557-reverse-words-in-a-string-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Prankurtiwari/leetcode-code/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
