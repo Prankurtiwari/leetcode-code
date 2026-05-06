@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-cracking-the-safe](https://github.com/Prankurtiwari/leetcode-code/tree/master/0753-cracking-the-safe) |
 | [0880-decoded-string-at-index](https://github.com/Prankurtiwari/leetcode-code/tree/master/0880-decoded-string-at-index) |
 | [1041-robot-bounded-in-circle](https://github.com/Prankurtiwari/leetcode-code/tree/master/1041-robot-bounded-in-circle) |
+| [2211-count-collisions-on-a-road](https://github.com/Prankurtiwari/leetcode-code/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
 | ------- |
 | [0880-decoded-string-at-index](https://github.com/Prankurtiwari/leetcode-code/tree/master/0880-decoded-string-at-index) |
+| [2211-count-collisions-on-a-road](https://github.com/Prankurtiwari/leetcode-code/tree/master/2211-count-collisions-on-a-road) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/Prankurtiwari/leetcode-code/tree/master/1041-robot-bounded-in-circle) |
 | [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Prankurtiwari/leetcode-code/tree/master/2169-count-operations-to-obtain-zero) |
+| [2211-count-collisions-on-a-road](https://github.com/Prankurtiwari/leetcode-code/tree/master/2211-count-collisions-on-a-road) |
 ## Dynamic Programming
 |  |
 | ------- |
