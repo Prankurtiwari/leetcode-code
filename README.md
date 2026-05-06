@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Prankurtiwari/leetcode-code/tree/master/0063-unique-paths-ii) |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prankurtiwari/leetcode-code/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Prankurtiwari/leetcode-code/tree/master/0063-unique-paths-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Prankurtiwari/leetcode-code/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Sliding Window
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Prankurtiwari/leetcode-code/tree/master/0063-unique-paths-ii) |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prankurtiwari/leetcode-code/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
