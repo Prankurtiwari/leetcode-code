@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Prankurtiwari/leetcode-code/tree/master/0735-asteroid-collision) |
 | [0880-decoded-string-at-index](https://github.com/Prankurtiwari/leetcode-code/tree/master/0880-decoded-string-at-index) |
 | [2211-count-collisions-on-a-road](https://github.com/Prankurtiwari/leetcode-code/tree/master/2211-count-collisions-on-a-road) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Prankurtiwari/leetcode-code/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Prankurtiwari/leetcode-code/tree/master/0063-unique-paths-ii) |
+| [0735-asteroid-collision](https://github.com/Prankurtiwari/leetcode-code/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Prankurtiwari/leetcode-code/tree/master/0778-swim-in-rising-water) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Prankurtiwari/leetcode-code/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prankurtiwari/leetcode-code/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Prankurtiwari/leetcode-code/tree/master/0735-asteroid-collision) |
 | [1041-robot-bounded-in-circle](https://github.com/Prankurtiwari/leetcode-code/tree/master/1041-robot-bounded-in-circle) |
 | [2043-simple-bank-system](https://github.com/Prankurtiwari/leetcode-code/tree/master/2043-simple-bank-system) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Prankurtiwari/leetcode-code/tree/master/2169-count-operations-to-obtain-zero) |
